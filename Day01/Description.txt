@@ -1,0 +1,19 @@
+# DEV_LEVELUP - MODULE 01: PYTHON VARIABLES
+
+## 1. Core Concepts
+- Concepts of Variables: How to store and label data in memory using variable names.
+- Basic Data Types: 
+    - float (floating-point numbers - used for decimal precision), 
+    - int (integers for whole numbers), 
+    - string (text characters).
+- Input/Output: Using the input() function to capture user data and the print() function to output results.
+- Type Casting: Converting user input (which is captured as a string by default) into numerical types (float/int) to enable arithmetic operations.
+
+## 2. Simple Project: Pocket Calculator
+- Description: A basic calculator program demonstrating how to perform arithmetic using stored variables.
+- How it works:
+    - The program prompts the user for two numbers.
+    - Captures and converts the inputs, storing them as float variables (num1 and num2).
+    - Performs addition, subtraction, multiplication, and division.
+    - Displays the computed results using f-strings for clear output.
+- Implementation File: calculator.py
