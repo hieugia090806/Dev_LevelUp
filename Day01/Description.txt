@@ -1,3 +1,4 @@
+# Date: Thurs, Aug 13th, 2026
 # DEV_LEVELUP - MODULE 01: PYTHON VARIABLES
 
 ## 1. Core Concepts
