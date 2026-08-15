@@ -1,5 +1,5 @@
 # Date: Thurs, Aug 13th, 2026
-# DEV_LEVELUP - MODULE 01: PYTHON VARIABLES
+# Dev_LevelLUp - No.01: PYTHON VARIABLES
 
 ## 1. Core Concepts
 - Concepts of Variables: How to store and label data in memory using variable names.
