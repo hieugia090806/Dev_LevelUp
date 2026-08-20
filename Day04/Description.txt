@@ -16,7 +16,7 @@
     - Conditional Statements: How to use if, elif, and else statements inside functions to classify student grades into categories A, B, C, D, and F.
     - Loops: How to use for loops to process multiple dictionary entries and generate summary reports.
 
-## 2. Mini Project: Grade Student Management System
+## 2. Mini Project: Grade Student Management System (v1.0)
     - Description: The mini project utilizes all concepts including Python Variables, List, Condition (For and While Loop),
                    Function, and Dictionary to allow user input choice based on the list. Then, generating functions based on 
                    choices to process.

@@ -1,0 +1,25 @@
+# Date: Thurs, Aug 20th, 2026
+# Dev_LevelLUp - No.04: Python Dictionary and Function.
+
+## 1. Core concepts.
+    -  Definition and Syntax: How to create custom classes using the class keyword to represent real-world entities such as Students.
+    -  Constructor (__init__): How to initialize object attributes when creating new objects.
+    -  Attributes: How to store object data such as student names and grades using instance variables.
+    -  Methods:
+        -  How to define behaviors and operations that belong to a class.
+        -  Example: grade classification based on student scores.
+    -  Objects: How to create instances (objects) from a class and access their attributes and methods.
+    -  Encapsulation: How to combine related data and functionality into a single unit (class) for better organization and maintainability.
+    -  Object Interaction: How multiple objects can be created and managed within another class.
+    -  Class Relationships: How the GradeManagementSystem class manages multiple Student objects using a dictionary data structure.
+    -  Reusability: How classes improve code reusability and reduce duplication by allowing objects to share the same structure and behavior.
+    -  Maintainability: How Object-Oriented Programming (OOP) makes programs easier to modify, extend, and debug.
+
+## 2. Mini Project: Grade Student Management System (v1.1)
+    - Description: The mini project utilizes Python Variables, Dictionary, Conditional Statements, Loops (For and While), Functions, Classes, and Object-Oriented Programming (OOP)
+                   concepts to build a menu-driven Grade Management System. The system allows users to manage student records, calculate average grades, classify student performance,
+                   search student information, and generate ranking reports.
+    - Input: Username, Student Names, Student Grades, and Menu Choice
+    - Output: Student Information, Grade Classification, Average Grade, Ranking Report, Student Record List
+    - Implementation: File GMS.py (v1.1)
+    - How to run: Move to folder /Day04 and type python GMS.py to run.
