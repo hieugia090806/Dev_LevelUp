@@ -1,0 +1,26 @@
+# Date: Thurs, Aug 20th, 2026
+# Dev_LevelLUp - No.04: Python Dictionary and Function.
+
+## 1. Core concepts.
+- Concepts of Dictionaries:
+    - Definition and Syntax: How to store and manage key-value pairs (e.g., student names as keys and grades as values) using curly braces {}.
+    - Mutation and Methods: How to modify dictionaries dynamically using methods such as update(), pop(), get(), keys(), values(), and items().
+    - Searching: How to check if a specific key (student name) exists in a dictionary using the in operator.
+    - Iterability: How to traverse through keys, values, or key-value pairs efficiently using loops.
+- Concepts of Functions:
+    - Definition and Syntax: How to encapsulate reusable blocks of code using the def keyword.
+    - Parameters and Arguments: How to pass data into functions and handle multiple inputs.
+    - Return Values: How to send results back to the caller using the return statement to maintain clean and modular code.
+    - Input: How to capture user data (such as student names and grades) from the console using the input() function.
+    - Output: How to display menus, student records, grade categories, and program messages using the print() function.
+    - Conditional Statements: How to use if, elif, and else statements inside functions to classify student grades into categories A, B, C, D, and F.
+    - Loops: How to use for loops to process multiple dictionary entries and generate summary reports.
+
+## 2. Mini Project: Grade Student Management System
+    - Description: The mini project utilizes all concepts including Python Variables, List, Condition (For and While Loop),
+                   Function, and Dictionary to allow user input choice based on the list. Then, generating functions based on 
+                   choices to process.
+    - Input: Type firstname, middlename, lastname, and choice.
+    - Output: Print result of choice.
+    - Implementation: File GMS.py
+    - How to run: Move to folder /Day04 and type python GMS.py to run.
