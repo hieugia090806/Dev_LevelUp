@@ -14,3 +14,11 @@
 * Integrate APIs and intelligent chatbot architecture.
 * Analyze and synthesize scientific literature.
 * Complete a professional portfolio.
+## 📚 Learning History
+* Day01: Learn Python syntax, variables, and basic operations.
+* Day02: Explore Python Lists syntax, components, and structures.
+* Day03: Understand For-Loop, While-Loop, and If-else Condition.
+* Day04: Apply dictionaries and functions to organize code through Grade Management System (GMS) version 1.0 (v1.0).
+* Day05: Build reusable programs using classes (GMS v1.1)
+* Day06: Learn file handling, reading, and writing text files.
+* Day07: Perform array and matrix operations with NumPy.
