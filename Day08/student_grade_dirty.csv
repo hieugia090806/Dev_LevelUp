@@ -1,0 +1,21 @@
+StudentID,FirstName,LastName,Age,Gender,Major,Grade,Absences,Tutoring,ParentalSupport,CurriculumActivities
+1001,John,Smith,20,Male,IT,85,2,Yes,High,Sports
+1002,Emma,Johnson,19,Female,AI,92,0,Yes,High,Music
+1003,Liam,Williams,21,Male,Cyber Security,78,5,No,Medium,Debate
+1004,Olivia,Brown,20,Female,AI,,1,Yes,High,Music
+1005,Noah,Jones,22,Male,IT,65,12,No,Low,Sports
+1006,Ava,Garcia,19,Female,Data Science,88,3,Yes,Medium,Art
+1007,William,Miller,20,Male,AI,95,0,Yes,High,Debate
+1008,Sophia,Davis,18,Female,IT,72,,No,Medium,Sports
+1009,James,Rodriguez,20,Male,AI,101,2,Yes,High,Music
+1010,Isabella,Martinez,19,Female,Data Science,54,15,No,Low,Art
+1011,Mia,Lopez,twenty,Female,AI,89,1,Yes,High,Music
+1012,Ethan,Gonzalez,21,Male,IT,N/A,4,No,Medium,Sports
+1013,Emma,Johnson,19,Female,AI,92,0,Yes,High,Music
+1014, Benjamin ,Wilson,20,Male,AI,84,2,Yes,High,Debate
+1015,Charlotte,Anderson,-5,Female,IT,76,3,No,Medium,Art
+1016,Lucas,Thomas,20,male,AI,81,2,Yes,High,Music
+1017,Amelia,Taylor,19,FEMALE,Data Science,90,1,Yes,High,Sports
+1018,Henry,Moore,20,Male,AI,999,0,Yes,High,Debate
+1019,Evelyn,Jackson,,Female,IT,68,8,No,Low,Art
+1020,Alexander,Martin,21,Male,Cyber Security,74,6,No,Medium,
