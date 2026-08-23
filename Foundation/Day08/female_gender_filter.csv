@@ -1,0 +1,49 @@
+﻿,student_id,first_name,last_name,age,gender,major,absences,tutoring,parental_support,curriculum_activities
+2,S003,Mia,Smith,21,Female,Computer Science,14,No,Low,Sports
+4,S005,Alice,Garcia,23,Female,AI,14,Yes,Medium,
+6,S007,Emma,Johnson,24,Female,Cyber Security,20,No,Low,Music
+8,S009,Emma,Williams,25,Female,Data Science,20,Yes,High,Music
+9,S010,John,Brown,18,Female,Cyber Security,8,Yes,Low,Coding Club
+10,S011,Sophia,Brown,25,Female,Cyber Security,4,No,Low,Sports
+11,S012,James,Wilson,22,Female,Software Engineering,12,No,Low,Sports
+13,S014,Mia,Johnson,24,Female,Software Engineering,14,No,High,
+14,S015,Alice,Wilson,22,Female,AI,9,No,Low,Volunteer
+16,S017,Bob,Wilson,18,Female,Cyber Security,0,Yes,Medium,Music
+18,S019,Bob,Davis,20,Female,Software Engineering,19,No,Low,Coding Club
+19,S020,Emma,Jones,24,Female,Cyber Security,16,No,Low,Sports
+24,S025,John,Johnson,18,Female,Data Science,3,Yes,Low,Sports
+25,S026,James,Davis,20,Female,Computer Science,8,No,Low,
+28,S029,Noah,Jones,25,Female,Cyber Security,17,No,Low,Sports
+32,S033,Noah,Moore,23,Female,Computer Science,10,Yes,Medium,Volunteer
+33,S034,Bob,Jones,25,Female,AI,0,No,High,Coding Club
+34,S035,Alice,Johnson,21,Female,Computer Science,11,Yes,Low,Music
+35,S036,Liam,Williams,25,Female,Software Engineering,20,Yes,High,Coding Club
+36,S037,Liam,Johnson,20,Female,AI,3,Yes,Medium,Music
+40,S041,Sophia,Moore,20,Female,Computer Science,1,No,Medium,
+44,S045,Emma,Davis,23,Female,Computer Science,7,Yes,High,Sports
+46,S047,Sophia,Smith,19,Female,Computer Science,18,No,Low,
+47,S048,Mia,Miller,23,Female,Cyber Security,19,Yes,Medium,Coding Club
+48,S049,Emma,Jones,18,Female,AI,16,Yes,Medium,Volunteer
+51,S052,Bob,Moore,22,Female,Software Engineering,0,No,Medium,Sports
+52,S053,Noah,Moore,23,Female,Cyber Security,14,Yes,High,Volunteer
+53,S054,Bob,Johnson,22,Female,AI,7,No,Low,Sports
+55,S056,Mia,Brown,24,Female,Cyber Security,7,Yes,High,Art Club
+60,S061,Emma,Jones,23,Female,Software Engineering,2,Yes,Low,Sports
+62,S063,Noah,Smith,21,Female,Cyber Security,18,Yes,High,Volunteer
+63,S064,Olivia,Smith,23,Female,Cyber Security,13,Yes,Medium,Sports
+65,S066,Olivia,Williams,18,Female,Software Engineering,18,Yes,Low,Art Club
+67,S068,Olivia,Garcia,23,Female,Data Science,13,No,Low,Volunteer
+68,S069,John,Wilson,18,Female,Computer Science,20,Yes,High,
+70,S071,Alice,Moore,21,Female,Data Science,11,Yes,High,Coding Club
+76,S077,Olivia,Davis,24,Female,Data Science,7,Yes,Medium,Volunteer
+77,S078,Emma,Davis,24,Female,AI,15,No,Low,Volunteer
+78,S079,Emma,Garcia,22,Female,Data Science,19,No,High,
+81,S082,Liam,Moore,23,Female,Software Engineering,16,No,Medium,Art Club
+82,S083,James,Garcia,23,Female,Data Science,9,No,Low,
+85,S086,Liam,Smith,20,Female,AI,1,No,High,Sports
+86,S087,Olivia,Johnson,18,Female,Cyber Security,15,No,Medium,Sports
+88,S089,John,Williams,20,Female,AI,7,Yes,High,Volunteer
+89,S090,Mia,Moore,21,Female,Cyber Security,14,No,High,Volunteer
+92,S093,Olivia,Moore,25,Female,AI,7,No,High,Music
+93,S094,Olivia,Johnson,21,Female,Software Engineering,6,No,Low,Coding Club
+98,S099,Mia,Smith,20,Female,Software Engineering,20,No,Medium,Sports

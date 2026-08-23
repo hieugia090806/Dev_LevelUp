@@ -1,0 +1,6 @@
+﻿,student_id,first_name,last_name,age,gender,major,absences,tutoring,parental_support,curriculum_activities
+12,S013,James,Davis,19,Male,AI,4,Yes,High,Volunteer
+14,S015,Alice,Wilson,22,Female,AI,9,No,Low,Volunteer
+48,S049,Emma,Jones,18,Female,AI,16,Yes,Medium,Volunteer
+77,S078,Emma,Davis,24,Female,AI,15,No,Low,Volunteer
+88,S089,John,Williams,20,Female,AI,7,Yes,High,Volunteer
