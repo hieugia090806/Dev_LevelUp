@@ -22,3 +22,4 @@
 * Day05: Build reusable programs using classes (GMS v1.1)
 * Day06: Learn file handling, reading, and writing text files.
 * Day07: Perform array and matrix operations with NumPy.
+* Day08: Learn about Pandas library.
