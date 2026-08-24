@@ -1,0 +1,6 @@
+#-- Source: Age_Description.png. --#
+It is clear that around 17 students aged 25 years old form the largest segment in the age distribution 
+chart, closely followed by a major group of students aged 22 and 23 with both exactly 15 each. Conversely, 
+students aged 19 represent the lowest point in the data, dropping to only 7 students, despite the youngest cohort at age 18 starting moderately at 13 students. 
+Next, continuous analysis shows that the remaining groups at ages 21 and 24 maintain stable numbers with 12 and 11 students respectively. 
+Ultimately, the chart demonstrates that the overall student population is heavily skewed toward older demographics between 21 and 25 years old
