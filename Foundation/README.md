@@ -23,3 +23,4 @@
 * Day06: Learn file handling, reading, and writing text files.
 * Day07: Perform array and matrix operations with NumPy.
 * Day08: Learn about Pandas library.
+* Day09: Discover about Matplotlib library.
