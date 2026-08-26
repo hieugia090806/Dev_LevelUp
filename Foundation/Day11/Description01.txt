@@ -1,0 +1,18 @@
+#-----------------------------------------------#
+#-- Description for File scikitlearn01.ipynb. --#
+#-----------------------------------------------#
+- Purpose: Geting Started with Scikit-Learn
+- Details:
+    - Import library and check version of sklearn in local computer
+    - Utilize provided sample dataset.
+    - K-Nearest Neighbors Regression (KNN Regressor)
+    - Data Preprocessing (StandardScaler)
+    - Pipeline (Raw Data -> StandardScaler -> KNN Model -> Prediction)
+    - HyperParameter
+    - Model Training
+    - Prediction
+    - Data Visualization
+    - Grid Search
+    - Cross Validation
+    - CV results
+    - Dataset Documentation (#--print(fetch_california_housing()['DESCR']). --#)
