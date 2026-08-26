@@ -1,0 +1,10 @@
+- Techniques: Prefix Sum, Two Pointers, Sliding Window, 
+            Binary Search, Greedy, Quy hoạch động, Backtracking
+- Signals:
+  + Hỏi tổng của nhiều đoạn con khác nhau -> Prefix Sum
+  + Mảng đã sắp, tìm cặp theo tổng -> Two Pointers
+  + Đoạn con LIÊN TIẾP tối ưu -> Sliding Window
+  + Tìm trong mảng sắp xếp lớn/ngưỡng nhỏ nhất -> Binary Search
+  + Mỗi bước chọn 'to nhất' và bài cho phép -> Greedy
+  + Đếm số cách/tối ưu, bài con chồng lấp -> Dynamic Programming
+  + Liệt kê mọi cấu hình có ràng buộc -> Backtracking
