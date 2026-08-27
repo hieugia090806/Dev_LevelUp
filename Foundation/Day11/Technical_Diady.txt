@@ -1,0 +1,4 @@
+#---------- TECHINCAL DIARY. ----------#
+- '.data': used for storing input speciliazed features of the dataset.
+- '.target': used for storing labels or ground truth that model need to predict.
+- '.shape[x]': used fro showing shape of the image.
