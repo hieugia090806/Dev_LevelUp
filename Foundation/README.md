@@ -25,3 +25,4 @@
 * Day08: Learn about Pandas library.
 * Day09: Discover about Matplotlib library.
 * Day10: Figure out what is Matplotlib library and how to use it.
+* Day11: Explore when Scikit_learn is used and how to use it.
