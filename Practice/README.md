@@ -46,3 +46,7 @@
     + **Two Pointer Approach:** Time complexity of **$O(N)$** because each element is processed a constant number of times.
     + **Space Complexity:** Typically **$O(1)$** since it only requires a few extra index variables without allocating additional memory arrays.
    
+    ## 2. Sliding Window Technique. ##
+    A powerful algorithmic technique used to reduce time complexity from $O(n^2)$ to $O(n)$ when processing sequential data (arrays or strings). 
+    + **Fixed-size Window:** Maintains a constant window length ($k$) to find sub-metrics (e.g., maximum sum of size $k$).
+    + **Dynamic-size Window:** Expands and shrinks the window dynamically using `left` and `right` pointers to satisfy specific conditions (e.g., finding the shortest or longest subarray)
